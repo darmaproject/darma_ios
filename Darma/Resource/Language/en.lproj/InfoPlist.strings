@@ -1,0 +1,7 @@
+
+
+"CFBundleDisplayName" = "DARMA";
+"NSCameraUsageDescription"="To make it easy for you to use the scan function, you need to agree to use the camera function";
+"NSPhotoLibraryAddUsageDescription"="Album permission required";
+"NSPhotoLibraryUsageDescription"="In order to make it easy for you to use the scan function, you need to agree to use the photo album function";
+"NSFaceIDUsageDescription"="The current APP needs to get your FaceID to secure the APP";

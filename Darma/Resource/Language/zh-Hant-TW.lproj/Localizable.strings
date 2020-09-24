@@ -1,0 +1,277 @@
+
+"Confirm"="Confirm";
+"Wallets"="Wallets";
+"New"="New";
+
+
+"Please make a selection below to either create a new wallet or restore a wallet" = "Please make a selection below to either create a new wallet or restore a wallet";
+"Create Wallet"="Create Wallet";
+"Recover Wallet"="Recover Wallet";
+
+
+"For your assets security, please set password first. The password will be used for private key and transaction authorization." = "For your assets security, please set password first. The password will be used for private key and transaction authorization.";
+"It is a local password. DRAMA will not store it and can not be retrieved. Please keep it well." = "It is a local password. DRAMA will not store it and can not be retrieved. Please keep it well.";
+"Wallet name" = "Wallet name";
+"Password"="Password";
+"Confirm Password"="Confirm Password";
+"The wallet name should be 3 characters at least. "= "The wallet name should be 3 characters at least. ";
+"The wallet name should be 16 characters at most. "= "The wallet name should be 16 characters at most. ";
+"6 characters at least, mixed with numbers, letters in uppercase and lowercase, and special characters are suggested."= "6 characters at least, mixed with numbers, letters in uppercase and lowercase, and special characters are suggested.";
+"The password entered twice is inconformity."= "The password entered twice is inconformity.";
+
+
+"Show seed"= "Show seed";
+"Your wallet can be recovered using the below seed."= "Your wallet can be recovered using the below seed.";
+"You must save the SEED in a safe secure location.Sharing your SEED is equal to sharing your wallet."= "You must save the SEED in a safe secure location.Sharing your SEED is equal to sharing your wallet.";
+"If your SEED is lost, consider your wallet as lost."= "If your SEED is lost, consider your wallet as lost.";
+"Please copy your SEED words"= "Please copy your SEED words";
+"I have copy and save my SEED words."="I have copy and save my SEED words.";
+"Copied"= "Copied";
+"Please put your wallet in safe location. Do not store it in clear text or send it via internet, or else you lose your wallet."= "Please put your wallet in safe location. Do not store it in clear text or send it via internet, or else you lose your wallet.";
+"Copy failure"= "Copy failure";
+
+"Backup SEED words, couldn`t captrue screenshot"= "Backup SEED words, couldn`t captrue screenshot";
+"Do not capture screenshot. If someone get your seed words, he is free to get your assets."= "Do not capture screenshot. If someone get your seed words, he is free to get your assets.";
+"OK"= "OK";
+
+
+ "To make sure you have copied your SEED words in right form, please select the corresponding words."= "To make sure you have copied your SEED words in right form, please select the corresponding words.";
+"Please confirm your SEED words."= "Please confirm your SEED words.";
+"Please click SEED words according above serial No."= "Please click SEED words according above serial No.";
+"Verify"= "Verify";
+"Verification failed. Try again."= "Verification failed. Try again.";
+"Thanks. Skip."= "Thanks. Skip.";
+
+
+"Recover Wallet"= "Recover Wallet";
+"Recover from private keys"= "Recover from private keys";
+"Recover from SEED words"= "Recover from SEED words";
+"Recover View-only Wallet"= "Recover View-only Wallet";
+
+
+"Recover from private keys"= "Recover from private keys";
+"Wallet start Topoheight (optional)"= "Wallet start Topoheight (optional)";
+"Spend private key (64 hex characters)"= "Spend private key (64 hex characters)";
+"Please enter the wallet name"= "Please enter the wallet name";
+"Invalid spent key"= "Input Error";
+
+
+"Recover from SEED words"= "Recover from SEED words";
+"25 Seed Words"= "25 Seed Words";
+"Please enter SEED words"= "Please enter SEED words";
+
+
+"Recover View-only Wallet"= "Recover View-only Wallet";
+"Spend public Key(64 hex characters)"= "Spend public Key(64 hex characters)";
+"View private Key(64 hex characters)"= "View private Key(64 hex characters)";
+"Private key can not be blank"= "Private key can not be blank";
+
+
+"Locked："= "Locked：";
+"Starting sync"= "Starting sync";
+"Synchronized"="Synchronized";
+"Height："="Height：";
+"Starting sync "= "Starting sync ";
+"Remaining："= "Remaining：";
+"Disconnect"= "Disconnect";
+"Offline"="";
+"Network is disconnected"="";
+"Height："="";
+"Receive"= "Receive";
+"Send"= "Send";
+"Send(read-only)"= "Send(read-only)";
+"All"= "All";
+"Completed"= "Completed";
+"Wallet"= "Wallet";
+"Exchange"= "Exchange";
+"Settings"= "Settings";
+
+
+"Transaction details"= "Transaction details";
+"Block explorer"= "Block explorer";
+"Tx key"= "Tx key";
+"Share"="Share";
+
+"Pending"= "Pending";
+"Transaction success"= "Transaction success";
+"Transaction Locked"="Transaction Locked";
+
+"Tx private key is not found, it might be lost if you restore the wallet by seeds or keys."="";
+
+"Transaction ID"= "Transaction ID";
+"Date"= "Date";
+"Amount"= "Amount";
+"Fee"= "Fee";
+"Height"= "Height";
+"Type"= "Type";
+
+"01"="Jan";
+"02"="Feb";
+"03"="Mar";
+"04"="Apr";
+"05"="May";
+"06"="Jun";
+"07"="Jul";
+"08"="Aug";
+"09"="Sept";
+"10"="Oct";
+"11"="Nov";
+"12"="Dec";
+
+
+"Wallets"= "Wallets";
+"Open"= "Open";
+"Rename"= "Rename";
+"Remove"= "Remove";
+"Cancel"= "Cancel";
+"Enter the password"= "Enter the password";
+"Please enter new name"= "Please enter new name";
+"Delete the wallet. Confirm?"= "Delete the wallet. Confirm?";
+"Confirm"= "Confirm";
+
+
+"Your wallet"= "Your wallet";
+"DARMA Available"= "DARMA Available";
+"Darma address"= "Darma address";
+"Payment ID(optional)"= "Payment ID(optional)";
+"Amount"= "Amount";
+"Remark"= "Remark";
+"Send All"= "Send All";
+"Send"= "Send";
+"Please enter receiving address"= "Please enter receiving address";
+"Please enter transfer amount"= "Please enter transfer amount";
+
+
+"Warm remind"= "Warm remind";
+"Please go to [settings-privacy-camera-DARMA] to turn on the access switch"= "Please go to [settings-privacy-camera-DARMA] to turn on the access switch";
+"Your camera is not detected"= "Your camera is not detected";
+
+
+"Confirm transaction"= "Confirm transaction";
+
+
+"Transaction success"= "Transaction success";
+
+
+"Address book"= "Address book";
+
+
+"Remark"= "Remark";
+"Address"= "Address";
+"Please enter remarks"= "Please enter remarks";
+"Please enter receiving address"= "Please enter receiving address";
+
+
+"Receive" = "Receive";
+"Amount" = "Amount";
+"Integrated_address"="Integrated_address";
+
+
+"Settings"= "Settings";
+"Current node"= "Current node";
+"Sync interval"= "Sync interval";
+"Change password"= "Change password";
+"Rescan Blockchain"= "Rescan Blockchain";
+"Show keys"= "Show keys";
+"Show seed"= "Show seed";
+"Select Language"="Select Language";
+"Finger/Face/Gesture"="Finger/Face/Gesture";
+"Backup Wallet"= "Backup Wallet";
+"Backup now to iCloud"= "Backup now to iCloud";
+
+"Delete wallet"= "Delete wallet";
+
+"Privacy Policy"= "Privacy Policy";
+"Website："= "Website：";
+"Version"= "Version";
+
+"Please enter password"= "Please enter password";
+"Backup successfully"= "Backup successfully";
+"Backup failed"= "Backup failed";
+"iCloud is not available"= "iCloud is not available";
+"Please open iCloud to keep your documents safe stored in iCloud"= "Please open iCloud to keep your documents safe stored in iCloud";
+
+
+"Nodes"= "Nodes";
+"Select"= "Select";
+"Edit"= "Edit";
+"Auto"="Auto";
+"Select the best node automatically"= "Select the best node automatically";
+
+
+"Add Nodes"= "Add Nodes";
+"Edit Nodes"= "Edit Nodes";
+"IP Address"= "IP Address";
+"Port"= "Port";
+"Username(optional)"= "Username(optional)";
+"Password(optional)"= "Password(optional)";
+"Label"= "Label";
+"Please enter IP address"= "Please enter IP address";
+"Invalid port value"= "Invalid port value";
+"Pleasen enter a tag"= "Pleasen enter a tag";
+"Existed node"= "Existed node";
+"Default node"="Default node";
+
+
+"Loading"="Loading";
+"Slow"="Slow";
+"Normal"="Normal";
+"Faster"="Faster";
+"Node is not reachable, please check your network"="Node is not reachable, please check your network";
+"Height "="Height ";
+"Delay "="Delay ";
+
+
+"Sync interval"="Sync interval";
+"High operation\nHigh network transmission"="High operation\nHigh network transmission";
+" Low operation\nLow network transmission"=" Low operation\nLow network transmission";
+
+
+"Change password"="Change password";
+"Enter The Old Password"="Enter The Old Password";
+"Enter New Password"="Enter New Password";
+"Enter New Password Again"="Enter New Password Again";
+"The password entered twice is inconformity."="The password entered twice is inconformity.";
+"Password changed"="Password changed";
+"Password change failed"="Password change failed";
+"Password error"="Password error";
+
+
+"Rescan Blockchain"="Rescan Blockchain";
+"Wallet may be restored from Topo Height:0"="Wallet may be restored from Topo Height:0";
+"Never or Rarely required. Wallet gets busy for 20-30 minutes"="Never or Rarely required. Wallet gets busy for 20-30 minutes";
+
+
+"Show keys"="Keys";
+"View Key (public)"="View Key (public)";
+"View Key (private)"="View Key (private)";
+"Spend key(public)"="Spend key(public)";
+"Spend key(private)"="Spend key(private)";
+
+
+"Recover from backup file"="Recover from backup file";
+"Backup file name"="Backup file name";
+"Wallet topoheight"="Wallet topoheight";
+"Backup time"="Backup time";
+"disabled"="disabled";
+"Enable"="Enable";
+"set unlock password"="set unlock password";
+"password unlock"="password unlock";
+"face recongnition/touch unlock"="face recongnition/touch unlock";
+"gesture code unlock"="gesture code unlock";
+"you haven't set password"="you haven't set password";
+"you haven't set Touch/Face ID. Go to Settings > Touch/Face ID & Passcode to set your Touch/Face ID."="you haven't set Touch/Face ID. Go to Settings > Touch/Face ID & Passcode to set your Touch/Face ID.";
+"Touch unlock or face recognition is not supported by your device."="Touch unlock or face recognition is not supported by your device.";
+"password unlock"="password unlock";
+"please try again"="please try again";
+"Errors. Your password is required to enable Face ID."="Errors. Your password is required to enable Face ID.";
+"face ID"="face ID";
+"Errors. Your password is required to enable Touch ID."="Errors. Your password is required to enable Touch ID.";
+"verify fingerprint"="verify fingerprint";
+"set gesture code"="set gesture code";
+"Please create gesture unlock"="Please create gesture unlock";
+"Please repeat"="Please repeat";
+"Not match. Please draw it again."="Not match. Please draw it again.";
+"Please connect at least 4 points"="Please connect at least 4 points";
+"Patterns do not match"="Patterns do not match";
+"Forget gesture?"="Forget gesture?";

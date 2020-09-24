@@ -1,0 +1,8 @@
+framework module "Appwallet" {
+	header "ref.h"
+    header "Appwallet.objc.h"
+    header "Universe.objc.h"
+    header "Appwallet.h"
+
+    export *
+}

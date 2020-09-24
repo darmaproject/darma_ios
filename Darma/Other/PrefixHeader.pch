@@ -1,0 +1,61 @@
+
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define WEAKSELF  typeof(self) __weak weakSelf=self;
+
+#define KUIScreenSize  [UIScreen mainScreen].bounds.size
+#define Width ([UIScreen mainScreen].bounds.size.width)
+#define Height ([UIScreen mainScreen].bounds.size.height)
+
+
+#define kDevice_Is_iPhoneX ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1125, 2436), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define IsPad       (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+
+#define IS_IPHONE_X     (( fabs((double)[[UIScreen mainScreen] bounds].size.height - (double)812) < DBL_EPSILON ) || (fabs((double)[[UIScreen mainScreen] bounds].size.width - (double)812) < DBL_EPSILON ))
+#define KNAVIGATE_HEIGHT (IS_IPHONE_X ? 88 : 64) 
+#define KBOTTOM_HEIGHT   (IS_IPHONE_X? 34 : 0)
+#define KTABBAR_HEIGHT   (IS_IPHONE_X? (49 + 34) : 49)
+
+
+#import "AFNetworking.h"
+#import "RequestManager.h"
+#import "RequestUrlConfig.h"
+
+#import "MBProgressHUD.h"
+#import "SHOWProgressHUD.h"
+#import "MJRefresh.h"
+
+
+#import "Masonry.h"
+#import "UIView+AdaptivePerfect.h"
+
+
+#import "UIImageView+WebCache.h"
+
+
+#import "UIColor+func.h"
+
+#import "MJExtension.h"
+#import "YYModel.h"
+
+
+#import "Tool.h"
+#import "UIView+Extension.h"
+
+
+#import <Appwallet/Appwallet.h>
+#import "MobileWalletSDKManger.h"
+
+
+
+#import "ChangeLanguage.h"
+#define LocalizedString(key) [[ChangeLanguage shareInstance] LoacalStingForKey:key]
+#define BITLocalizedCapString(key, comment) [[ChangeLanguage shareInstance] LoacalStingForKey:key]
+#define KisEnglish  [[ChangeLanguage shareInstance] isEnglish]
+
+#import <LocalAuthentication/LocalAuthentication.h>
+
+#endif 

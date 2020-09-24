@@ -1,0 +1,7 @@
+
+
+"CFBundleDisplayName" = "DARMA";
+"NSCameraUsageDescription"="为了方便你使用扫描功能需要你同意使用相机功能";
+"NSPhotoLibraryAddUsageDescription"="需要相册权限";
+"NSPhotoLibraryUsageDescription"="为了方便你使用扫描功能需要你同意使用相册功能";
+"NSFaceIDUsageDescription"="当前应用需要获取你的FaceID以便保护APP安全性";

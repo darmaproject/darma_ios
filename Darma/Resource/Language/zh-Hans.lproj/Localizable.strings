@@ -1,0 +1,343 @@
+
+
+
+"Password"="密码";
+"Confirm"="确定";
+"Wallets"="钱包列表";
+"New"="新建";
+
+
+"Please make a selection below to either create a new wallet or restore a wallet" = "使用DARMA至少需要一个钱包，您可以选择创建钱包、导入钱包或秘钥恢复钱包";
+"Create Wallet"="创建钱包";
+"Recover Wallet"="恢复钱包";
+
+
+"For your assets security, please set password first. The password will be used for private key and transaction authorization."="为保护您的资金安全，请先设置密码，密码用于私钥和交易授权" ;
+"It is a local password. DRAMA will not store it and can not be retrieved. Please keep it well." ="密码为本地密码，DARMA将不存储密码，也无法找回，请务必妥善保管";
+"Wallet name" ="钱包名称";
+"Password"="Password";
+"Confirm Password"="确认密码";
+"The wallet name should be 3 characters at least. "="钱包名称不少于3位" ;
+"The wallet name should be 16 characters at most. "="钱包名称不能超过16位";
+"6 characters at least, mixed with numbers, letters in uppercase and lowercase, and special characters are suggested." ="不少于6位，建议混合大小写字母、数字、特殊符号";
+"The password entered twice is inconformity."="两次输入的密码不一致";
+
+
+"Show seed"="种子码";
+"Your wallet can be recovered using the below seed."="您的钱包可以使用下面的种子来恢复" ;
+"You must save the SEED in a safe secure location.Sharing your SEED is equal to sharing your wallet."="您必须将种子保存在安全的位置。 公开您的种子等于公开您的钱包" ;
+"If your SEED is lost, consider your wallet as lost."= "如果您的种子丢失, 您的钱包等同于丢失了";
+"Please copy your SEED words"= "请抄写您的助记词";
+"I have copy and save my SEED words."="我已抄写保存";
+"Copied"= "复制成功";
+"Please put your wallet in safe location. Do not store it in clear text or send it via internet, or else you lose your wallet."= "请存放于安全位置，不要明文存储，或者通过网络直接发送，否则等同于丢失钱包。";
+"Copy failure"= "复制失败";
+
+"Backup SEED words, couldn`t captrue screenshot"= "备份助记词，禁止截图";
+"Do not capture screenshot. If someone get your seed words, he is free to get your assets."= "禁止截图，如果有人获取您的助记词将直接获取您的资产";
+"OK"= "好的";
+
+
+"To make sure you have copied your SEED words in right form, please select the corresponding words."= "为了确保您已将助记词正确抄写，请选择对应序号单词";
+"Please confirm your SEED words."= "请确认您的助记词";
+"Please click SEED words according above serial No."= "请按以上序号点击助记词";
+"Verify"= "验证";
+"Verification failed. Try again."= "验证失败，请重新验证";
+"Thanks. Skip."= "谢谢，下次再说";
+
+
+"Recover Wallet"= "恢复钱包";
+"Recover from private keys"= "私钥恢复钱包";
+"Recover from SEED words"= "助记词恢复钱包";
+"Recover View-only Wallet"= "恢复只读钱包";
+
+
+"Recover from private keys"= "私钥恢复";
+"Wallet start Topoheight (optional)"= "钱包起始区块高度(可选)";
+"Spend private key (64 hex characters)"= "花费秘钥(64个十六进制字符)";
+"Please enter the wallet name"= "请输入钱包名称";
+"Invalid spent key"="花费秘钥输入不正确" ;
+
+
+"Recover from SEED words"= "助记词恢复";
+"25 Seed Words"= "25个助记词";
+"Please enter SEED words"= "请输入助记词";
+
+
+"Recover View-only Wallet"= "恢复只读钱包";
+"Spend public Key(64 hex characters)"= "花费公钥(64个十六进制字符)";
+"View private Key(64 hex characters)"= "查看私钥(64个十六进制字符)";
+"Private key can not be blank"= "秘钥不能为空";
+
+
+"Locked："= "锁定：";
+"Starting sync"= "开始同步";
+"Synchronized"="同步完成";
+"Height："="区块高度：";
+"Starting sync "= "开始同步 ";
+"Remaining："= "剩余区块：";
+"Disconnect"= "钱包已断开";
+"Offline"="钱包已离线";
+"Network is disconnected"="网络已断开";
+"Height："="当前高度：";
+"Receive"= "接收";
+"Send"= "发送";
+"Send(read-only)"= "发送(只读)";
+"All"= "所有";
+"Completed"= "已完成";
+"Wallet"= "钱包";
+"Exchange"= "兑换";
+"Settings"= "设置";
+
+
+"Release to refresh"= "松开立即刷新";
+"Refreshing"= "正在刷新数据中";
+"Pull-to-refresh"= "下拉可以刷新";
+"Latest update"= "最后更新";
+"Today"= "今天";
+
+
+"Transaction details"= "交易详情";
+"Block explorer"= "块浏览器";
+"Tx key"= "交易秘钥";
+"Share"="分享";
+
+"Pending"= "Pending";
+"Transaction success"= "交易成功";
+"Transaction Locked"="交易锁定";
+
+"Tx private key is not found, it might be lost if you restore the wallet by seeds or keys."="交易密钥不存在，密钥通常保存在发送该交易的钱包中，在恢复的钱包中是不可见的。";
+
+"Transaction ID"= "交易ID";
+"Date"= "日期";
+"Amount"= "金额";
+"Fee"= "手续费";
+"Height"= "高度";
+"TOPO Height"= "TOPO高度";
+
+"Type"= "类型";
+
+"01"="1月";
+"02"="2月";
+"03"="3月";
+"04"="4月";
+"05"="5月";
+"06"="6月";
+"07"="7月";
+"08"="8月";
+"09"="9月";
+"10"="10月";
+"11"="11月";
+"12"="12月";
+
+
+"Wallets"= "钱包管理";
+"Open"= "打开";
+"Rename"= "重命名";
+"Remove"= "删除";
+"Cancel"= "取消";
+"Enter the password"= "输入密码";
+"Please enter new name"= "请输入新的名称";
+"Delete the wallet. Confirm?"= "确定要删除该钱包？";
+"Delete wallet"= "确认删除";
+
+
+"Your wallet"= "Your wallet";
+"DARMA Available"= "DARMA 可用余额";
+"Darma address"= "收款地址";
+"Payment ID(optional)"= "Payment ID(可选)";
+"Amount"= "金额";
+"Remark"= "备注";
+"Send All"= "提示：将您所有金额全部发送";
+"str_send_transfer"= "发送交易";
+"Please enter receiving address"= "请输入收款地址";
+"Please enter transfer amount"= "请输入转账金额";
+
+
+"Warm remind"= "温馨提示";
+"Please go to [settings-privacy-camera-DARMA] to turn on the access switch"= "请去-> [设置 - 隐私 - 相机 - DARMA] 打开访问开关";
+"Your camera is not detected"= "未检测到您的摄像头";
+"Put the qr code/barcode into the box, and it can be scanned automatically"="将二维码/条码放入框内, 即可自动扫描";
+"Photo Album"="相册";
+"RichScan"="扫一扫";
+
+"Confirm transaction"= "交易确认";
+
+
+"Transaction success"= "交易成功";
+
+
+"Address book"= "地址簿";
+
+
+"Remark"= "备注";
+"Address"= "地址";
+"Please enter remarks"= "请输入备注";
+"Please enter receiving address"= "请输入收款地址";
+
+
+"Receive" = "收款";
+"Amount" = "输入金额";
+"Integrated_address"="集成32位Payment ID的地址";
+
+
+"Settings"= "设置";
+"Current node"= "当前节点";
+"Sync interval"= "同步间隔";
+"Change password"= "修改密码";
+"Rescan Blockchain"= "从起始高度重新扫描";
+"Show keys"= "Show keys";
+"Show seed"= "种子码";
+"Select Language"="语言选择";
+"Finger/Face/Gesture"="指纹 面容 手势解锁";
+"Backup Wallet"= "将备份文件保存到其它位置";
+"Backup now to iCloud"= "立即备份到iCloud";
+
+"Delete wallet"= "删除钱包";
+
+"Privacy Policy"= "Privacy Policy";
+"Website："= "官网：";
+"Version"= "Version";
+
+"Please enter password"= "请输入密码";
+"Backup successfully"= "备份成功";
+"Backup failed"= "备份失败：";
+"iCloud is not available"= "iCloud不可用";
+"Please open iCloud to keep your documents safe stored in iCloud"= "请打开iCloud以保持文稿安全存入iCloud中";
+
+
+"Nodes"= "节点";
+"Select"= "选择";
+"Edit"= "编辑";
+"Auto"="自动";
+"Select the best node automatically"= "自动选择最佳节点";
+
+
+"Add Nodes"= "添加节点";
+"Edit Nodes"= "编辑节点";
+"IP Address"= "IP地址";
+"Port"= "端口";
+"Username(optional)"= "用户名(可选)";
+"Password(optional)"= "输入密码(可选)";
+"Label"= "标签";
+"Please enter IP address"= "请输入IP地址";
+"Invalid port value"= "无效的端口值";
+"Pleasen enter a tag"= "请输入标签";
+"Existed node"= "该节点已经存在";
+"Default node"="默认节点";
+
+
+"Loading"="正在加载，请稍等";
+"Slow"="较慢";
+"Normal"="普通";
+"Faster"="较快";
+"Node is not reachable, please check your network"="节点不可达，请检查您的网络";
+"Height "="节点高度：";
+"Delay "="延迟";
+
+
+"Sync interval"="同步间隔";
+"High operation\nHigh network transmission"="高运算\n高网络传输";
+" Low operation\nLow network transmission"="低运算\n低网络传输";
+
+
+"Change password"="修改密码";
+"Enter The Old Password"="输入原密码";
+"Enter New Password"="输入新密码";
+"Enter New Password Again"="再次输入密码";
+"The password entered twice is inconformity."="两次输入不一致";
+"Password changed"="修改成功";
+"Password change failed"="修改失败";
+"Password error"="密码错误";
+
+
+"Rescan Blockchain"="从起始高度重新扫描";
+"Wallet may be restored from Topo Height:0"="钱包将从该高度开始重新扫描: 0";
+"Never or Rarely required. Wallet gets busy for 20-30 minutes"="从不或很少需要使用此功能，钱包需要20~30分钟完成扫描";
+
+
+"Show keys"="钱包密钥";
+"View Key (public)"="查看秘钥（公开）";
+"View Key (private)"="查看秘钥（私钥）";
+"Spend key(public)"="花费秘钥（公开）";
+"Spend key(private)"="花费秘钥（私钥）";
+
+
+"Recover from backup file"="从备份文件恢复";
+"Backup file name"="备份文件名";
+"Wallet topoheight"="钱包起始高度";
+"Backup time"="备份时间";
+"disabled"="未启用";
+"Enable"="启用";
+"set unlock password"="密码设置";
+"password unlock"="密码解锁";
+"face recongnition/touch unlock"="面容/触控解锁";
+"gesture code unlock"="手势解锁";
+"you haven't set password"="您还没有设置密码";
+"you haven't set Touch/Face ID. Go to Settings > Touch/Face ID & Passcode to set your Touch/Face ID."="你尚未设置Touch/Face ID，请在手机系统“设置>触控/面容 ID与密码“Touch/Face ID";
+"Touch unlock or face recognition is not supported by your device."="您的设备不支持指纹解锁或者人脸识别功能";
+"password unlock"="使用密码";
+"please try again"="请重试";
+"Errors. Your password is required to enable Face ID."="错误次数过多了,需要密码以启用faceID";
+"face ID"="面容 ID";
+"Errors. Your password is required to enable Touch ID."="错误次数过多了,需要密码以启用TouchID";
+"verify fingerprint"="请验证指纹";
+"set gesture code"="设置手势密码";
+"Please create gesture unlock"="请设置手势密码";
+"Please repeat"="请再次绘制手势密码";
+"Not match. Please draw it again."="与首次绘制不一致，请再次绘制";
+"Please connect at least 4 points"="连接至少4个点";
+"Patterns do not match"="手势密码错误";
+"Forget gesture?"="忘记手势密码？";
+
+
+"str_transfer"="交易";
+"str_please_input_transfer_address"="请输入转出地址";
+"str_please_input_target_addree"="请输入目标金额";
+"str_transferable_amounts_notice"="注意可转金额范围";
+"str_input_destination_address"="请输入目标地址";
+"You will send"="你会发送";
+"You will get"="你会得到";
+"Exchange"="兑换";
+"str_exchange_funtion_is_not_open"="兑换";
+"Trade details"="兑换详情";
+"str_input_destination_address"="查看订单";
+"Pay Now"="立即支付";
+"Amount"="发送数量";
+"Status"="订单状态";
+"ID"="订单 ID";
+"Send address"="发送地址";
+"Please send %@ USDT from your USDT external wallet to the address or QR code shown above."="请从您的USDT外部钱包发送%@ %@到上面显示的地址或QR码。";
+"Please click 'View Order' to show more details or return to change the amount"="请点击“查看订单”显示更多详细信息或返回更改金额";
+"Please click 'Pay Now' to send %@ DMC from your DARMA wallet to the address shown above, or you can send to the above address or QR code by other means."="请点击“立即支付”，将从你的DARMA钱包发送%@ DMC到上面显示的地址，或者你可以通过其它方式发送到上述地址或QR码。";
+"Please click 'Pay Now' to continue or return to change the amount"="请点击“立即支付”继续或返回更改金额";
+
+"Details"="订单详情";
+"Order Date"="下单时间";
+"str_time_out1"="超时时间";
+"str_time_out"="您已超时";
+
+"Price"="价格";
+"Send Coin"="发送币种";
+"Order Amount"="下单数量";
+"Receive Coin"="接收币种";
+"Excepted Receive Amount"="预计接收数量";
+"Send Address"="转入地址(DMC)";
+"Receive Address"="接收地址(USDT)";
+"Sent Amount"="已发送数量";
+"Send TXID"="发送 TXID";
+"Transaction Price"="成交价格";
+"Total Transaction Amount"="成交总量";
+"Receive TXID"="接收 TXID";
+"Amount to be Returned"="待退还数量";
+"Returned Amount"="已退还数量";
+"Refund Address"="退款地址(DMC)";
+
+"str_order_log"="日志";
+
+"Details"="日志详情";
+"ID"="订单ID";
+"Date"="时间";
+"Pair"="交易对";
+"Status"="状态";
+
